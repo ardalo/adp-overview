@@ -9,7 +9,7 @@ using multiple teams and a Microservice approach.
 ### Component Overview
 * [Guidelines and FAQ](https://github.com/ardalo/digital-platform-development-guide) for the development of the Ardalo Digital Platform
 * The [Customer Account Service](https://github.com/ardalo/adp-customer-account-service) taking care of the customer account domain
-  * [API Documentation](http://35.193.141.187/internal/adp-customer-account-service/swagger-ui/)
+  * [API Documentation](http://35.193.141.187/internal/adp-customer-account-service/)
   * Provides also the global 404 page
 
 ### Utilized External Services
