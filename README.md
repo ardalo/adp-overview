@@ -4,11 +4,12 @@ using multiple teams and a Microservice approach.
 
 Prerequisites for running the Ardalo Digital Platform:
 * Kubernetes
-* Traefik as Ingress Controller
+* [Traefik](https://traefik.io/traefik/) as Ingress Controller
 
 The Platform consists of the following components:
 * [Guidelines and FAQ](https://github.com/ardalo/digital-platform-development-guide) for the development of the Ardalo Digital Platform
 * The [Customer Account Service](https://github.com/ardalo/adp-customer-account-service) taking care of the customer account domain
+  * [API Documentation](http://35.193.141.187/internal/adp-customer-account-service/swagger-ui/)
   * Provides also the global 404 page
 
 The Platform utilizes the following external services:
