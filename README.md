@@ -6,13 +6,13 @@ using multiple teams and a Microservice approach.
 * Kubernetes
 * [Traefik](https://traefik.io/traefik/) as Ingress Controller
 
-### The Platform consists of the following components
+### Component Overview
 * [Guidelines and FAQ](https://github.com/ardalo/digital-platform-development-guide) for the development of the Ardalo Digital Platform
 * The [Customer Account Service](https://github.com/ardalo/adp-customer-account-service) taking care of the customer account domain
   * [API Documentation](http://35.193.141.187/internal/adp-customer-account-service/swagger-ui/)
   * Provides also the global 404 page
 
-### The Platform utilizes the following external services
+### Utilized External Services
 * [GitHub](https://github.com/ardalo?tab=repositories) - Source Code Hosting, Version Control System and CI/CD pipeline
 * [SonarCloud](https://sonarcloud.io/organizations/ardalo/projects) - Static Code Analysis
 * [Docker Hub](https://hub.docker.com/u/ardalo) - Docker Container Registry
